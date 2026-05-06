@@ -1,4 +1,4 @@
-# Heatmap-of-mammal-endangerment
+# Heatmap of mammal endangerment
 
 <div style="font-weight: bold; margin-bottom: 6px;">
     Welcome to the heatmap of mammal species endangerment.
